@@ -7,7 +7,9 @@
 
 <br>🌱 I’m currently learning: Deepening my knowledge in Next.js and TypeScript while optimizing performance for scalable applications.
 
-<br>💬 Ask me about: Frontend development, React, Next.js, responsive design, and creating user-friendly UIs using Tailwind CSS, Framer Motion, and Material UI.<br>⚡ Fun fact: When im not coding i go to the Gym, Watch Movies and play video games and spend time with family \o/ La familia es tudo *in Hector Salamanca voice*
+<br>💬 Ask me about: Frontend development, React, Next.js, responsive design, and creating user-friendly UIs using Tailwind CSS, Framer Motion, and Material UI.
+
+<br>⚡ Fun fact: When im not coding i go to the Gym, Watch Movies and play video games and spend time with family \o/ La familia es tudo *in Hector Salamanca voice*
 
 
 ## 🌐 Socials:
