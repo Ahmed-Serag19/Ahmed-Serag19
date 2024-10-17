@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on: Frontend development projects with a focus on React and Nextjs, including responsive web applications.<br>👯 I’m looking to collaborate on: Innovative frontend projects, especially those involving React, Next.js, and modern UI frameworks.<br>🤝 I’m looking for help with: Exploring advanced Next.js concepts such as Server-Side Rendering (SSR), Static Site Generation (SSG), and Incremental Static Regeneration (ISR).<br>🌱 I’m currently learning: Deepening my knowledge in Next.js and TypeScript while optimizing performance for scalable applications.<br>💬 Ask me about: Frontend development, React, Next.js, responsive design, and creating user-friendly UIs using Tailwind CSS, Framer Motion, and Material UI.<br>⚡ Fun fact: When im not coding i go to the Gym, Watch Movies and play video games and spend time with family \o/ La familia es tudo *in Hector Salamanca voice*
+🔭 I’m currently working on: Frontend development projects with a focus on React and Nextjs, including responsive web applications.
+
+<br>👯 I’m looking to collaborate on: Innovative frontend projects, especially those involving React, Next.js, and modern UI frameworks.
+
+<br>🤝 I’m looking for help with: Exploring advanced Next.js concepts such as Server-Side Rendering (SSR), Static Site Generation (SSG), and Incremental Static Regeneration (ISR).
+
+<br>🌱 I’m currently learning: Deepening my knowledge in Next.js and TypeScript while optimizing performance for scalable applications.
+
+<br>💬 Ask me about: Frontend development, React, Next.js, responsive design, and creating user-friendly UIs using Tailwind CSS, Framer Motion, and Material UI.<br>⚡ Fun fact: When im not coding i go to the Gym, Watch Movies and play video games and spend time with family \o/ La familia es tudo *in Hector Salamanca voice*
 
 
 ## 🌐 Socials:
