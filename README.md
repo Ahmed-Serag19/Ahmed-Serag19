@@ -27,9 +27,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahmed-Serag19&theme=light&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 "A Demonstration of superior judgement" Shen
 
